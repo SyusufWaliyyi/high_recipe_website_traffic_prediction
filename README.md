@@ -110,5 +110,5 @@ The solution combines **data cleaning**, **exploratory data analysis**, and **pr
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/recipe-traffic-prediction.git
-cd recipe-traffic-prediction
+git clone https://github.com/SyusufWaliyyi/high_recipe_website_traffic.git
+cd high_recipe_website_traffic
